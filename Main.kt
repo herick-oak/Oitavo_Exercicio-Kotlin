@@ -12,7 +12,7 @@ fun main() {
     var opcao = readln().toInt()
 
 
-    // Fiz essa gambiarra no while, por que o exemplo do professor usava while(true)
+    // Fiz essa gambiarra no while, porque o exemplo do professor usava while(true)
     // , não queria passar uma sensação de ctrl c e ctrl v
 
     while(opcao != 999) {
